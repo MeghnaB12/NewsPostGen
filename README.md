@@ -79,3 +79,32 @@ Here is the live Swagger UI in action:
 ### 3. Run the Server
 ```bash
 uvicorn main:app --reload
+
+---
+
+## 📖 API Usage
+
+You can also test the API directly using `curl` or any other API client.
+
+### Example Request
+Send a `POST` request to the `/generate-post` endpoint with your topic.
+
+**Request (`curl`):**
+```bash
+curl -X 'POST' \
+  '[https://newspostgen.onrender.com/generate-post](https://newspostgen.onrender.com/generate-post)' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "topic": "AI in climate change"
+}'
+
+{
+  "topic": "AI in climate change",
+  "news_sources": [
+    "[https://www.su.se/english/news/responsible-ai-can-help-science-tackle-the-planetary-crises-1.858723](https://www.su.se/english/news/responsible-ai-can-help-science-tackle-the-planetary-crises-1.858723)",
+    "[https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/](https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/)"
+  ],
+  "linkedin_post": "AI is stepping up as a key player in tackling climate change! From optimizing energy to Earth observation and upcycling food waste, AI offers innovative solutions for a healthier planet. Let's embrace responsible AI for a sustainable future! #AI #ClimateChange #Sustainability",
+  "image_suggestion": "A stylized image representing AI (neural network) overlaid on a globe or natural landscape."
+}
