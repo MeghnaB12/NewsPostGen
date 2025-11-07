@@ -79,8 +79,7 @@ Here is the live Swagger UI in action:
 ### 3. Run the Server
 ```bash
 uvicorn main:app --reload
-
----
+```
 
 ## 📖 API Usage
 
