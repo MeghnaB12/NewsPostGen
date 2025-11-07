@@ -7,7 +7,7 @@ import json
 from agent import generate_post_data
 
 app = FastAPI(
-    title="Demanual AI Post Generator",
+    title="NewsPostGen",
     description="API for generating LinkedIn posts from recent news."
 )
 
