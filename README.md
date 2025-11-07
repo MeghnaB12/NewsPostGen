@@ -3,6 +3,7 @@
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-blueviolet?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=1AA026&labelColor=282b30)](https://www.langchain.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An AI-powered API that uses LangChain and the Google Gemini API to find recent news on any topic and automatically generate a professional LinkedIn post.
