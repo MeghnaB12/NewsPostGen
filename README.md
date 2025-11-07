@@ -7,7 +7,7 @@
 
 An AI-powered API that uses LangChain and the Google Gemini API to find recent news on any topic and automatically generate a professional LinkedIn post.
 
-This project was built as an personal work.
+This application was developed as a solo project, demonstrating end-to-end expertise in modern AI orchestration and API deployment.
 
 ---
 
