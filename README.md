@@ -53,7 +53,7 @@ Here is the live Swagger UI in action:
 ### 2. Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MeghnaB12/NewsPostGen.git](https://github.com/MeghnaB12/NewsPostGen.git)
+    git clone https://github.com/MeghnaB12/NewsPostGen.git
     cd NewsPostGen
     ```
 
