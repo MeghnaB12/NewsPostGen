@@ -25,7 +25,7 @@ class PostResponse(BaseModel):
 @app.post("/generate-post", response_model=PostResponse)
 def create_post(request: TopicRequest):
     
-    # 3. Call your agent
+    # 3. Call your agent function
     # This will return a JSON *string*
     json_string_output = generate_post_data(request.topic)
     
