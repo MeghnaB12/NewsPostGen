@@ -4,11 +4,11 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-blueviolet?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=1AA026&labelColor=282b30)](https://www.langchain.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white)](https://ai.google.dev/gemini-api/docs)
+[![Tavily Search](https://img.shields.io/badge/Tavily-000000?style=flat&logo=tavily&logoColor=FF7B00)](https://tavily.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An AI-powered API that uses LangChain and the Google Gemini API to find recent news on any topic and automatically generate a professional LinkedIn post.
-
-This application was developed as a solo project, demonstrating end-to-end expertise in modern AI orchestration and API deployment.
+An AI-powered API that uses LangChain and the Google Gemini API to find recent news on any topic and automatically generate a professional LinkedIn post. This application was developed as a solo project, demonstrating end-to-end expertise in modern AI orchestration and API deployment.
 
 ---
 
