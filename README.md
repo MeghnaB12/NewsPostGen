@@ -97,9 +97,9 @@ curl -X 'POST' \
   -d '{
   "topic": "AI in climate change"
 }'
-
-Response (JSON):
-
+```
+**Response (JSON):**
+```bash
 {
   "topic": "AI in climate change",
   "news_sources": [
@@ -109,3 +109,4 @@ Response (JSON):
   "linkedin_post": "AI is stepping up as a key player in tackling climate change! From optimizing energy to Earth observation and upcycling food waste, AI offers innovative solutions for a healthier planet. Let's embrace responsible AI for a sustainable future! #AI #ClimateChange #Sustainability",
   "image_suggestion": "A stylized image representing AI (neural network) overlaid on a globe or natural landscape."
 }
+```
