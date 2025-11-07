@@ -20,7 +20,7 @@ You can test the live API and see the Swagger documentation here:
 ### Demo Screenshot
 Here is the live Swagger UI in action:
 
-![NewsPostGen Swagger UI](demo-swagger.png)
+![NewsPostGen Swagger UI](Demo.png)
 
 ---
 
