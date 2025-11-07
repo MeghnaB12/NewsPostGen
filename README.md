@@ -98,6 +98,8 @@ curl -X 'POST' \
   "topic": "AI in climate change"
 }'
 
+Response (JSON):
+
 {
   "topic": "AI in climate change",
   "news_sources": [
